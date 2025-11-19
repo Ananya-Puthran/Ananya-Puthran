@@ -1,9 +1,11 @@
-## Hi, I'm Ananya!! 
+<h1 align="center">𝙷𝚒, 𝙸'𝚖 𝙰𝚗𝚊𝚗𝚢𝚊!!</h1>
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/c8/b2/e0/c8b2e0b466dabc9d18a152751abc5744.gif">
+<br><br>
+𝘼𝙄 & 𝙈𝙇 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧𝙞𝙣𝙜 𝙨𝙩𝙪𝙙𝙚𝙣𝙩 <br>
+𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜: 𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜, 𝙋𝙮𝙩𝙝𝙤𝙣, 𝘿𝘽𝙈𝙎, 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 <br>
+𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙨: 𝘼𝙄 𝙖𝙜𝙚𝙣𝙩𝙨, 𝙬𝙚𝙗 𝙖𝙥𝙥𝙨, 𝙥𝙧𝙤𝙗𝙡𝙚𝙢-𝙨𝙤𝙡𝙫𝙞𝙣𝙜 <br>
 
-AI & ML Engineering student<br>
-Learning: Machine Learning, Python, DBMS  <br>
-Interests: AI agents, web apps, problem-solving <br>
-
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ananya-puthran/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ananyaputhran21@gmail.com) 
