@@ -5,7 +5,9 @@
 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜: 𝙈𝙖𝙘𝙝𝙞𝙣𝙚 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜, 𝙋𝙮𝙩𝙝𝙤𝙣, 𝘿𝘽𝙈𝙎, 𝙒𝙚𝙗 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩 <br>
 𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙨: 𝘼𝙄 𝙖𝙜𝙚𝙣𝙩𝙨, 𝙬𝙚𝙗 𝙖𝙥𝙥𝙨, 𝙥𝙧𝙤𝙗𝙡𝙚𝙢-𝙨𝙤𝙡𝙫𝙞𝙣𝙜 <br>
 
-<br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ananya-Puthran&label=Visitors&color=A53860&style=flat-square"/>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ananya-puthran/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ananyaputhran21@gmail.com) 
